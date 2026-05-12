@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuguangping"
-description              : "Personal homepage of Yuguangping: research, projects, publications, and contact information."
+description              : "Personal homepage of Yuguangping, focusing on computer systems, software engineering, debugging tools, projects, and research artifacts."
 repository               : "yuguangping/yuguangping.github.io"
 google_scholar_stats_enabled : false
 google_scholar_stats_use_cdn : false
@@ -24,14 +24,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuguangping"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Researcher / Student"
-  location         : "Beijing, China"
+  bio              : "Software Systems & Tooling"
+  location         : "China"
   employer         :
   pubmed           : 
   googlescholar    :
   email            :
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://yuguangping.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
