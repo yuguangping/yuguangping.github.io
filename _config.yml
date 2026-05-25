@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuguangping"
-description              : "Personal academic homepage of Yuguangping, a Ph.D. student in Computer Science and Technology at the National University of Defense Technology."
+description              : "Personal academic homepage of Yuguangping, a Ph.D. student at the National University of Defense Technology."
 repository               : "yuguangping/yuguangping.github.io"
 google_scholar_stats_enabled : false
 google_scholar_stats_use_cdn : false
@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuguangping"
   avatar           : "/images/avatar.png"
-  bio              : "Ph.D. Student, Computer Science and Technology"
+  bio              : "Ph.D. Student, National University of Defense Technology"
   location         : "China"
   employer         : "National University of Defense Technology"
   pubmed           : 

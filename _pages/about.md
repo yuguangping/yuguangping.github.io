@@ -12,7 +12,7 @@ redirect_from:
 
 # Yuguangping
 
-I am **Yuguangping (余广平)**, a Ph.D. student in **Computer Science and Technology** at the **National University of Defense Technology**.
+I am **Yuguangping (余广平)**, a Ph.D. student at the **National University of Defense Technology**.
 
 I completed my undergraduate study in **Information and Computing Science** at **Hunan Agricultural University**. Public profiles from Hunan Agricultural University describe my undergraduate record, mathematical modeling experience, and recommendation to the National University of Defense Technology for direct doctoral study.
 
