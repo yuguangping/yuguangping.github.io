@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuguangping"
-description              : "Personal homepage of Yuguangping, focusing on computer systems, software engineering, debugging tools, projects, and research artifacts."
+description              : "Personal academic homepage of Yuguangping, a Ph.D. student in Computer Science and Technology at the National University of Defense Technology."
 repository               : "yuguangping/yuguangping.github.io"
 google_scholar_stats_enabled : false
 google_scholar_stats_use_cdn : false
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuguangping"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Software Systems & Tooling"
+  avatar           : "/images/avatar.png"
+  bio              : "Ph.D. Student, Computer Science and Technology"
   location         : "China"
-  employer         :
+  employer         : "National University of Defense Technology"
   pubmed           : 
   googlescholar    :
-  email            :
+  email            : "yuguangping@nudt.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://yuguangping.github.io"
   bitbucket        :

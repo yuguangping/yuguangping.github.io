@@ -1,19 +1,25 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  - title: "Brief Bio"
+    url: "/brief-bio/"
+
+  - title: "Education"
+    url: "/education/"
 
   - title: "News"
-    url: "/#news"
+    url: "/news/"
 
   - title: "Research"
-    url: "/#research-interests"
+    url: "/research/"
+
+  - title: "Honors"
+    url: "/honors/"
 
   - title: "Projects"
-    url: "/#selected-projects"
+    url: "/projects/"
 
   - title: "Publications"
-    url: "/#publications"
+    url: "/publications/"
 
   - title: "Contact"
-    url: "/#contact"
+    url: "/contact/"
