@@ -14,3 +14,5 @@ GitHub: [yuguangping](https://github.com/yuguangping)
 Homepage: [https://yuguangping.github.io](https://yuguangping.github.io)
 
 Public source list: [Public Sources](/sources/)
+
+Supervisor: Prof. Chun Huang (黄春)

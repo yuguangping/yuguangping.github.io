@@ -11,6 +11,8 @@ author_profile: true
 
 **Ph.D. student**
 
+Supervisor: **Prof. Chun Huang (黄春)**.
+
 Public profiles from Hunan Agricultural University report that I was recommended to the National University of Defense Technology for direct doctoral study. My public GitHub profile also lists the National University of Defense Technology as my current affiliation.
 
 ## Hunan Agricultural University
